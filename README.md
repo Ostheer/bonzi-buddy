@@ -2,6 +2,10 @@
 
 Bonzi Buddy can do /anything/. All you have to do, is ask the right question.
 
+##
+
+This fork makes it Python3 compatible
+
 ## Examples:
 
 ![Bonzi Buddy just Wants To Help](https://github.com/grahamc/bonzi-buddy/raw/master/example.png)
